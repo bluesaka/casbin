@@ -1,0 +1,4 @@
+p, admin_user1, admin_data1, read
+p, admin_user1, admin_data1, write
+p, admin_user_no_write1, admin_data1, read
+p, guest_user1, admin_data1, read

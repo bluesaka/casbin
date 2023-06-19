@@ -1,0 +1,7 @@
+g, admin_user1, admin
+g, guest_user1, guest
+g, guest_user_no_read1, guest
+
+p, admin, /admin/data1/detail, get
+p, admin, /admin/data1/detail, post
+p, guest, /admin/data1/detail, get
